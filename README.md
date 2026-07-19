@@ -9,6 +9,14 @@
   machine-learning models to full-stack, real-time web applications.
 </p>
 
+<p align="center">
+  <a href="https://github.com/AasthaShayla/aegis">
+    <img src="https://raw.githubusercontent.com/AasthaShayla/aegis/main/docs/screenshots/hero.png" alt="AEGIS — real-time global intelligence dashboard" width="92%">
+  </a>
+  <br>
+  <sub><b>AEGIS</b> — a real-time world monitor I built: live air traffic, satellites, earthquakes & cross-stream alerts, all from free open data.</sub>
+</p>
+
 ---
 
 ### 🚀 Featured project
@@ -37,15 +45,9 @@ optional **local-AI briefing**. Runs key-free.
 
 ### 📫 Connect
 
-- GitHub: [@AasthaShayla](https://github.com/AasthaShayla)
-- LinkedIn: _add your link_
-- Email: _add your email_
+- 📧 **Email:** aastha.shayla2001@gmail.com
+- 🐙 **GitHub:** [@AasthaShayla](https://github.com/AasthaShayla)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AasthaShayla&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="150" />
 </p>
-
-<!--
-  Tip: personalize this page — update your bio, add your LinkedIn/email, and pin
-  your best repos (GitHub profile → Customize your pins).
--->
