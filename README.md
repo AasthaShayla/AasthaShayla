@@ -40,8 +40,5 @@ optional local-AI briefing. Runs key-free.
 ### 📫 Connect
 
 - 📧 **Email:** aastha.shayla2001@gmail.com
+- 💼 **LinkedIn:** [aastha-shayla](https://www.linkedin.com/in/aastha-shayla-332484214/)
 - 🐙 **GitHub:** [@AasthaShayla](https://github.com/AasthaShayla)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AasthaShayla&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="150" />
-</p>
